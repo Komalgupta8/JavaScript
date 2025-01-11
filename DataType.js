@@ -42,4 +42,6 @@ const myfn=function(){
     console.log("fun")
 }
 
+console.log(typeof heros)
+
 
